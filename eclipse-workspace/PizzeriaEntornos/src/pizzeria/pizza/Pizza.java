@@ -84,4 +84,12 @@ public class Pizza {
                 ", tamaño=" + tamaño +
                 '}';
     }
+
+	/**
+	 * @param tipoMasa
+	 */
+	public void setMasa(String tipoMasa) {
+		// TODO Auto-generated method stub
+		
+	}
 }
